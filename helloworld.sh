@@ -1,4 +1,3 @@
 #!/bin/sh
-
-#Hello world em shell
+#Shell Script
 echo "Hello World"
